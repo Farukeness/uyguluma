@@ -16,3 +16,6 @@ if word in meme_dict.keys():
     print(meme_dict[word])
 else:
     print("Bu kelime sözlükte yok")
+
+
+print("bir deneme satırı")
